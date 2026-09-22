@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Temporários
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Logs temporários
+*.log~
+
+# Credenciais
+.env
+.env.*
+*.key
+secrets.*
+credentials.*
+
+# Arquivos de build
+build/
+dist/
